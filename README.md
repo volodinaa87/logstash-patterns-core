@@ -1,4 +1,5 @@
 # Logstash Plugin
+patterns/grok-patterns
 
 [![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-patterns-core.svg)](https://travis-ci.org/logstash-plugins/logstash-patterns-core)
 
